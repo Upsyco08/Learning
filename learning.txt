@@ -1,1 +1,3 @@
-initializing git repo
+- Initializing git repo
+
+- Added Learning 2 branch with additional comments
